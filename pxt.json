@@ -1,5 +1,5 @@
 {
-    "name": "pxt-kapakai",
+    "name": "kapakai",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -23,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
