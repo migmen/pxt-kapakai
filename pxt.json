@@ -15,11 +15,7 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
-    "targetVersions": {
-        "target": "5.0.12",
-        "targetId": "microbit"
-    },
+
     "supportedTargets": [
         "microbit"
     ],
